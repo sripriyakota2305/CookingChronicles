@@ -1,0 +1,23 @@
+📜 Sources for Recipe Website Development
+W3Schools - PHP and MySQL Tutorial
+Covers how to connect PHP with MySQL, handle user authentication, and manage dynamic web content.
+Link: https://www.w3schools.com/php/php_mysql_intro.asp
+
+W3Schools - PHP Forms and User Authentication
+Guides on creating login and signup forms in PHP.
+Link: https://www.w3schools.com/php/php_forms.asp
+
+GeeksforGeeks - Login System Using PHP and MySQL
+Explains the process of building a login and registration system using PHP and MySQL.
+Link: https://www.geeksforgeeks.org/how-to-create-a-login-form-in-php/
+
+GeeksforGeeks - CRUD Operations in PHP
+Covers how to create, read, update, and delete data in a MySQL database using PHP.
+Link: https://www.geeksforgeeks.org/crud-create-read-update-delete-operations-in-php/
+
+phpMyAdmin Documentation
+Instructions on how to manage MySQL databases with phpMyAdmin.
+Link: https://www.phpmyadmin.net/docs/intro/
+
+ChatGPT - AI-Assisted Development
+Used for generating, optimizing, and troubleshooting PHP code for the project.
